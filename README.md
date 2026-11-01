@@ -1,18 +1,10 @@
-## 👋 Hola, soy **Didier Puentes**
-
-Desarrollador **Full Stack • Web, Mobile & AI Systems** apasionado por crear sistemas modernos, escalables y orientados a resolver problemas reales de negocio.
-
----
-
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Didier Puentes | Full Stack Developer • Web, Mobile & AI Systems Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%E2%80%A2+Web%2C+Mobile+%26+AI+Systems;Arquitecturas+Modernas+%E2%80%A2+APIs+REST+%E2%80%A2+Cloud+%26+Automatizaci%C3%B3n;Transformando+ideas+complejas+en+productos+reales+de+alto+impacto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%E2%80%A2+Web%2C+Mobile+%26+AI+Systems;Arquitecturas+Modernas+%E2%80%A2+APIs+REST+%E2%80%A2+Cloud+%26+Automatizaci%C3%B3n;Transformando+ideas+complejas+en+productos+reales+de+alto+impacto" alt="Typing SVG" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/campodidier07-collab">
@@ -36,30 +28,35 @@ Desarrollador **Full Stack • Web, Mobile & AI Systems** apasionado por crear s
 
 ## 🚀 Sobre mí
 
-Soy **Didier Puentes** (`@campodidier07-collab`), desarrollador **Full Stack** con experiencia en **aplicaciones web, móviles y sistemas inteligentes**, enfocado en construir soluciones funcionales, bien estructuradas y listas para producción.
+Soy **Didier Puentes** (`@campodidier07-collab`), desarrollador **Full Stack** con experiencia construyendo **aplicaciones web, móviles y sistemas inteligentes**, enfocado en entregar soluciones funcionales, bien estructuradas y listas para producción.
 
-Trabajo principalmente con **arquitecturas modernas**, APIs RESTful, autenticación, control de roles y permisos, y experiencias de usuario limpias. Me apasiona transformar ideas en productos reales cuidando tanto la solidez del backend como el detalle del frontend, integrando además tecnologías de **Inteligencia Artificial, Visión por Computadora (OpenCV) y automatización**.
+Trabajo principalmente con **arquitecturas modernas**, APIs RESTful, autenticación, control de roles y permisos, y experiencias de usuario limpias. Me apasiona transformar ideas en productos reales cuidando tanto la solidez del backend como el detalle del frontend, integrando además **Inteligencia Artificial, Visión por Computadora (`OpenCV`) y gráficos 3D (`Three.js`)**.
 
-- 📍 Desarrollador de Software desde **Neiva, Huila, Colombia** 🇨🇴 • Parte de **[@DMA-DEV](https://github.com/campodidier07-collab)**
-- 💻 **Techstack principal:** `.php` `.laravel` `.py` `.django` `.js` `.jsx` `.dart` `.flutter` `.cs` `.sql`
-- 🔬 **Áreas de enfoque:** Plataformas SaaS & Gestión Empresarial, Apps Móviles, IA Generativa y Visión Artificial 3D (`OpenCV` + `Three.js`)
-- ⚡ **Metodología:** Código limpio, arquitectura escalable, trabajo ágil (**Scrum**) y mejora continua
+- 📍 Basado en **Neiva, Huila, Colombia** 🇨🇴 • Desarrollador en **[@DMA-DEV](https://github.com/campodidier07-collab)**
+- 💻 **Techstack clave:** `.php` `.laravel` `.py` `.django` `.js` `.jsx` `.dart` `.flutter` `.cs` `.sql`
+- 🔬 **Especialidades:** Plataformas SaaS & Gestión Empresarial, Apps Móviles Multiplataforma, IA Generativa y Visión Artificial
+- ⚡ **Filosofía de ingeniería:** Código limpio, arquitectura escalable, trabajo ágil (**Scrum**) y aprendizaje continuo
+
+```ts
+const didierPuentes = {
+  role: "Full Stack Developer • Web, Mobile & AI Systems",
+  location: "Neiva, Huila, Colombia 🇨🇴",
+  organization: "@DMA-DEV",
+  architecture: ["RESTful APIs", "MVC / Clean Architecture", "RBAC & Auth", "Real-Time 3D & AI"],
+  currentFocus: "Construyendo sistemas escalables con Laravel, Python, React, Flutter e IA",
+  availableForHire: true,
+};
+```
 
 ---
 
 ## 🛠️ Stack Tecnológico & Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,react,nodejs,js,flutter,dart,cs,tailwind,mysql,mongodb,docker,git,github,neovim,arduino&perline=9" alt="Tech Stack Icons" />
-</p>
-
 <div align="center">
 
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **⚙️ Backend & Arquitectura** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| **🎨 Frontend & Mobile** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **🗄️ Datos, IA & DevTools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
+| **⚙️ Backend & Bases de Datos** | **🎨 Frontend & Mobile** | **🧠 IA, DevOps & Hardware** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=php,laravel,py,django,nodejs,cs,mysql,mongodb&perline=4" alt="Backend & DB" /> | <img src="https://skillicons.dev/icons?i=react,js,flutter,dart,tailwind,html,css,bootstrap&perline=4" alt="Frontend & Mobile" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,neovim,arduino,linux,vscode,postman&perline=4" alt="DevOps & Tools" /> |
 
 </div>
 
@@ -71,70 +68,82 @@ Trabajo principalmente con **arquitecturas modernas**, APIs RESTful, autenticaci
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 <a href="https://github.com/campodidier07-collab/Sigvos_laravel">SIGVOS — Gestión Agrícola</a></h3>
-      <p>Sistema integral para la gestión y optimización de cultivos agrícolas, control de recursos, monitoreo e informes de producción.</p>
       <p>
-        <code>Laravel 13</code> <code>React</code> <code>MySQL</code> <code>MongoDB</code> <code>Tailwind</code>
+        <img src="https://img.shields.io/badge/Estado-En_Producci%C3%B3n-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
+      <p>Sistema integral para la gestión y optimización de cultivos agrícolas, control de recursos, monitoreo de lotes e informes de producción.</p>
       <p>
-        <a href="https://github.com/campodidier07-collab/Sigvos_laravel">🔗 Repositorio Laravel</a> •
-        <a href="https://github.com/campodidier07-collab/Sigvos_React">🔗 Versión React</a> •
-        <a href="https://sigvos.byethost18.com">🌐 Demo Live</a>
+        <a href="https://github.com/campodidier07-collab/Sigvos_laravel"><b>🔗 Repo Laravel</b></a> •
+        <a href="https://github.com/campodidier07-collab/Sigvos_React"><b>🔗 Repo React</b></a> •
+        <a href="https://sigvos.vercel.app"><b>🌐 Demo Live</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/campodidier07-collab/NEXUS-TALENT-IA">NEXUS-TALENT-IA</a></h3>
-      <p>Plataforma inteligente diseñada para gestionar, evaluar y potenciar el talento humano mediante análisis automatizado e Inteligencia Artificial.</p>
       <p>
-        <code>Python</code> <code>Inteligencia Artificial</code> <code>Data Analytics</code> <code>Web App</code>
+        <img src="https://img.shields.io/badge/Enfoque-Inteligencia_Artificial-38bdf8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
+      <p>Plataforma inteligente diseñada para gestionar, evaluar y potenciar el talento humano mediante análisis automatizado y modelos de IA.</p>
       <p>
-        <a href="https://github.com/campodidier07-collab/NEXUS-TALENT-IA">🔗 Ver Repositorio</a>
+        <a href="https://github.com/campodidier07-collab/NEXUS-TALENT-IA"><b>🔗 Ver Repositorio</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/campodidier07-collab/Hand_Particles">Hand Particles 3D (Computer Vision)</a></h3>
-      <p>Visualización interactiva 3D en tiempo real que utiliza la cámara para detectar los movimientos de la mano y controlar un flujo de partículas con 12 figuras dinámicas.</p>
       <p>
-        <code>React</code> <code>Three.js</code> <code>Computer Vision</code> <code>JavaScript</code>
+        <img src="https://img.shields.io/badge/3D_&_Visi%C3%B3n-Interactivo-8b5cf6?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
       </p>
+      <p>Visualización 3D en tiempo real que utiliza la cámara para detectar los gestos de la mano y controlar un flujo de partículas con 12 figuras dinámicas.</p>
       <p>
-        <a href="https://github.com/campodidier07-collab/Hand_Particles">🔗 Ver Repositorio</a>
+        <a href="https://github.com/campodidier07-collab/Hand_Particles"><b>🔗 Ver Repositorio</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/campodidier07-collab/SmartAcademy">SmartAcademy Mobile</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/App-Multiplataforma-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </p>
       <p>Aplicación móvil multiplataforma para la administración integral de academias, control de estudiantes, horarios y seguimiento académico.</p>
       <p>
-        <code>Flutter</code> <code>Dart</code> <code>Mobile UI</code> <code>REST API</code>
-      </p>
-      <p>
-        <a href="https://github.com/campodidier07-collab/SmartAcademy">🔗 Ver Repositorio</a>
+        <a href="https://github.com/campodidier07-collab/SmartAcademy"><b>🔗 Ver Repositorio</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/campodidier07-collab/Ollama_Bot">Ollama & Gemini AI Bot</a></h3>
-      <p>Asistente virtual inteligente con interfaz moderna, respuestas generativas en tiempo real y gestión persistente de historial conversacional.</p>
+      <h3>🤖 <a href="https://github.com/campodidier07-collab/Ollama_Bot">Ollama & Gemini AI Assistant</a></h3>
       <p>
-        <code>React</code> <code>Node.js</code> <code>Gemini API</code> <code>MongoDB</code>
+        <img src="https://img.shields.io/badge/Estado-En_Producci%C3%B3n-10b981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </p>
+      <p>Asistente virtual inteligente con interfaz moderna en React, respuestas generativas en tiempo real y gestión persistente de historial conversacional.</p>
       <p>
-        <a href="https://github.com/campodidier07-collab/Ollama_Bot">🔗 Ver Repositorio</a> •
-        <a href="https://ollama-bot-delta.vercel.app">🌐 Demo Live</a>
+        <a href="https://github.com/campodidier07-collab/Ollama_Bot"><b>🔗 Ver Repositorio</b></a> •
+        <a href="https://ollama-bot-delta.vercel.app"><b>🌐 Demo Live</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>⌚ <a href="https://github.com/campodidier07-collab/Velorium">Velorium</a> & <a href="https://github.com/campodidier07-collab/Marketsoft">Marketsoft</a></h3>
-      <p>Sistemas web comerciales para e-commerce de relojería de lujo y administración integral de inventario, clientes, pedidos y facturación.</p>
       <p>
-        <code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>Auth & Roles</code>
+        <img src="https://img.shields.io/badge/E--Commerce_&_ERP-Full_Stack-f59e0b?style=flat-square" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
+      <p>Plataformas web comerciales para relojería de lujo con carrito de compras y sistema de gestión empresarial de inventario, clientes y ventas.</p>
       <p>
-        <a href="https://github.com/campodidier07-collab/Velorium">🔗 Repo Velorium</a> •
-        <a href="https://github.com/campodidier07-collab/Marketsoft">🔗 Repo Marketsoft</a>
+        <a href="https://github.com/campodidier07-collab/Velorium"><b>🔗 Repo Velorium</b></a> •
+        <a href="https://github.com/campodidier07-collab/Marketsoft"><b>🔗 Repo Marketsoft</b></a>
       </p>
     </td>
   </tr>
@@ -142,7 +151,7 @@ Trabajo principalmente con **arquitecturas modernas**, APIs RESTful, autenticaci
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ GitHub Analytics & Actividad
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=campodidier07-collab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Didier GitHub Stats" />
@@ -150,7 +159,16 @@ Trabajo principalmente con **arquitecturas modernas**, APIs RESTful, autenticaci
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=campodidier07-collab&theme=algolia&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Didier GitHub Streak" />
+  <img height="175em" src="https://streak-stats.demolab.com?user=campodidier07-collab&theme=algolia&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Didier GitHub Streak" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=campodidier07-collab&theme=algolia" alt="Didier Contribution Curve" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/campodidier07-collab/campodidier07-collab/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/campodidier07-collab/campodidier07-collab/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/campodidier07-collab/campodidier07-collab/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
 ---
