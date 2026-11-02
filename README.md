@@ -121,6 +121,12 @@ Mi enfoque combina **arquitectura limpia en el backend** (APIs RESTful, patrón 
 ---
 
 <p align="center">
+  <a href="https://wa.me/573156320923">
+    <img src="./assets/cards/cta_footer.png" width="100%" alt="Contacto Directo — Didier Puentes" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=campodidier07-collab&label=Visitas%20al%20Portafolio&color=00b4d8&style=flat-square" alt="Profile Views" />
   &nbsp;•&nbsp;
   <i>Arquitectura, diseño y desarrollo por <b>Didier Puentes</b> • Neiva, Colombia 🇨🇴</i>
