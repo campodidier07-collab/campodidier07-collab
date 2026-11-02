@@ -106,11 +106,6 @@ Mi enfoque combina **arquitectura limpia en el backend** (APIs RESTful, patrón 
 </p>
 
 <p align="center">
-  <img height="175em" src="https://streak-stats.demolab.com?user=campodidier07-collab&theme=algolia&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="Didier GitHub Streak" />
-  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=campodidier07-collab&theme=algolia" alt="Didier Contribution Curve" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/campodidier07-collab/campodidier07-collab/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/campodidier07-collab/campodidier07-collab/output/pacman-contribution-graph.svg" />
